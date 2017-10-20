@@ -1,0 +1,6 @@
+园区购用户：
+
+按照赤峰环境，在enterprise表添加一条记录
+按照赤峰环境，在user表添加一条记录
+按照赤峰环境创建parkenterprise角色，权限按照赤峰
+在user_roles表将148999999999号码与parkenterprise角色的id绑定
